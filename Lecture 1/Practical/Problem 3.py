@@ -1,6 +1,6 @@
 course = "Intro to Python"
 print (course)
-student="Your_name Your_last_name"
+student="Khachik Soghomonyan"
 print (student)
 nickname = "Superman"
 print (nickname)
