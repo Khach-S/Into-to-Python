@@ -1,0 +1,7 @@
+test1 = input("Input your text ")
+print(test1)
+print(test1.count("a"))
+print(test1.count("b"))
+print(test1.count("c"))
+print(test1.count("d"))
+print(test1.count("e"))
